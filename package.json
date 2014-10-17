@@ -1,5 +1,5 @@
 {
-  "name": "gulp-jst",
+  "name": "gulp-amd-jst",
   "version": "0.0.1",
   "description": "Compile underscore templates to a JST file using gulp.( support amd support amd),The modifications to the gulp-jst",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "keywords": [
     "gulpplugin",
     "jst",
+    "jst-amd",
     "lodash",
     "template",
     "underscore"
