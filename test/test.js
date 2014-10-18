@@ -40,7 +40,8 @@ describe('gulp-jst', function() {
     });
 
     stream.on('data', function(file) {
-      assert.equal(file.contents.toString(), fs.readFileSync(__dirname + '/expected/hello-amd.js').toString());
+      var content = fs.readFileSync(__dirname + '/expected/hello-amd.js').toString();
+      assert.equal(file.contents.toString(), content);
     });
 
     stream.on('end', function(file) {
