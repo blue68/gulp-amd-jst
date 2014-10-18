@@ -1,4 +1,4 @@
-gulp-jst [![Build Status](https://travis-ci.org/blue68/gulp-amd-jst.svg?branch=master)](https://travis-ci.org/blue68/gulp-amd-jst)
+gulp-amd-jst [![Build Status](https://travis-ci.org/blue68/gulp-amd-jst.svg?branch=master)](https://travis-ci.org/blue68/gulp-amd-jst)
 ========
 
 Compile [lodash templates](http://lodash.com/docs#template) to a JST file using [gulp](https://github.com/wearefractal/gulp).
