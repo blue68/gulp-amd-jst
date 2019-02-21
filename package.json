@@ -27,7 +27,7 @@
     "url": "git://github.com/blue68/gulp-amd-jst"
   },
   "dependencies": {
-    "lodash": "~2.4.1",
+    "lodash": ">=4.17.11",
     "through2": "~0.4.1",
     "gulp-util": "~2.2.12"
   },
